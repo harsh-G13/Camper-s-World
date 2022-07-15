@@ -34,7 +34,7 @@ const seedDB = async () => {
             description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem neque maxime eum minus obcaecati, nemo accusamus dolorum quia iste iusto mollitia libero odio repellendus. Optio inventore vel obcaecati adipisci culpa?',
             price: Math.floor(Math.random() * 20) + 10,
             images: [
-                { "url": "https://res.cloudinary.com/docup1g2k/image/upload/v1638590539/YelpCamp/kuap5in0jb31hjt442k9.jpg", "filename": "YelpCamp/kuap5in0jb31hjt442k9.jpg" }
+                { "url": "https://res.cloudinary.com/docup1g2k/image/upload/v1638590539//kuap5in0jb31hjt442k9.jpg", "filename": "YelpCamp/kuap5in0jb31hjt442k9.jpg" }
         
             ]
         })
